@@ -1,0 +1,23 @@
+.app{
+    background-size: cover;
+}
+
+.body-bg {
+    background-color: #e5e7eb;
+}
+
+.login-card-header {
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 23px;
+}
+
+.register-card-header {
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 23px;
+}
+
+.btn-primary{
+    width:100%;
+}

@@ -19,6 +19,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/cardhover.css') }}" rel="stylesheet">
 
 </head>
 <body>
@@ -77,7 +78,7 @@
             </div>
         </nav>
 
-        <main class="body-bg py-4">
+        <main class="body-bg py-5">
             @yield('content')
         </main>
     </div>
